@@ -179,6 +179,9 @@ algo:hover{
   background-color: transparent;
   margin: 5%;        
 }
+.card-header{
+  text-align: center;
+}
 .card-body{
   margin-bottom: 5%;
 }
@@ -211,8 +214,7 @@ algo:hover{
   padding: 20px;
   font-size: 1.30rem;
   text-align: center;
-  color: black;
-  
+  color: black;  
 }
 li{
 color: black;
