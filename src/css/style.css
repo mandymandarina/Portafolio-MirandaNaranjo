@@ -138,7 +138,7 @@ algo:hover{
 }
 .algo{ 
   text-shadow: -0.06em 0 red,  0.06em 0 cyan; /* This creates the 3D effect, pretty easy, eh? */
-  letter-spacing: 0.08em; /* make sure the letters don't overlap */
+  letter-spacing: 0.08em; /* make sure the letters don't overlap */ 
 }
 .love{
 	fill:black;
@@ -212,7 +212,7 @@ algo:hover{
   font-size: 1.30rem;
   text-align: center;
   color: black;
-  margin-left: 25%;
+  
 }
 li{
 color: black;
