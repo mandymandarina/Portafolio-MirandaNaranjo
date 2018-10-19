@@ -18,7 +18,8 @@
     color: #fff;
   }
   .thumbnail{
-    margin-bottom:2%;
+    position: relative;
+    top: 10%;
   }
  
   }

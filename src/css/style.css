@@ -167,7 +167,8 @@ algo:hover{
   background-color: #2f2c3767;
   border:none;
   box-shadow:0 5px 5px rgba(0, 0, 0, 0.2);
-  padding-bottom: 5%; 
+  padding-bottom: 5%;
+  margin-bottom: 10%; 
 }
 .card{  
   border-radius: 3px;
@@ -178,6 +179,9 @@ algo:hover{
   background-color: transparent;
   margin: 5%;        
 }
+.card-body{
+  margin-bottom: 5%;
+}
 .listasoft{
   margin-left:5%;
 }
@@ -185,7 +189,7 @@ algo:hover{
   margin-bottom: -6%;
 }
 .img-contai{
-    padding: 20px;
+    padding: 5px;
     display: flex;
     justify-content: center;
     align-content: center;
