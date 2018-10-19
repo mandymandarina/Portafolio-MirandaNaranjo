@@ -167,7 +167,6 @@ algo:hover{
   background-color: #2f2c3767;
   border:none;
   box-shadow:0 5px 5px rgba(0, 0, 0, 0.2); 
-  margin-bottom: 5%;
 }
 .card{  
   border-radius: 3px;
@@ -371,9 +370,6 @@ a{
 }
 #skills{
   padding:150px 0;
-}
-.subject{
-  margin-right: 25%;
 }
 /************ contacto *********/
 #contact{
